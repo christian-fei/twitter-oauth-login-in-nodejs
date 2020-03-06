@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node $npm_package_main",
+    "fastify": "node fastify.js",
     "node": "node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +24,9 @@
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
+    "fastify": "^2.12.1",
+    "fastify-cookie": "^3.6.0",
+    "fastify-session": "^3.3.0",
     "oauth": "^0.9.15"
   },
   "devDependencies": {}
