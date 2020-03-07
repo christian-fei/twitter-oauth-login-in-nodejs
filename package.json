@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node $npm_package_main",
     "fastify": "node fastify.js",
+    "connect": "node connect.js",
     "node": "node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/christian-fei/twitter-oauth-login-in-nodejs#readme",
   "dependencies": {
+    "connect": "^3.7.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
