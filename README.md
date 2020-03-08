@@ -28,10 +28,10 @@ and then run `npm start`
 
 visit [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
 
-## fastify version
+## fastify version
 
 to run the **fastify** example, run `npm run fastify`.
 
-## connect version
+## connect version
 
 to run the **connect** example, run `npm run connect`.
