@@ -1,6 +1,6 @@
 # twitter-oauth-login-in-nodejs
 
-💣 **Full tutorial can be found on [christianfei.com](https://christianfei.com/posts/2020-03-05-Twitter-OAuth-Login-by-example-with-Node.js/)!** 🚀
+💣 **Full tutorial can be found on [cri.dev](https://cri.dev/posts/2020-03-05-Twitter-OAuth-Login-by-example-with-Node.js/)!** 🚀
 
 ---
 
