@@ -26,7 +26,7 @@
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
-    "fastify": "^2.12.1",
+    "fastify": "^2.15.1",
     "fastify-cookie": "^3.6.0",
     "fastify-session": "^3.3.0",
     "oauth": "^0.9.15"
