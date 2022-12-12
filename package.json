@@ -24,7 +24,7 @@
   "dependencies": {
     "connect": "^3.7.0",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "fastify": "^2.15.1",
     "fastify-cookie": "^3.6.0",
