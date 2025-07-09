@@ -6,8 +6,6 @@
 
 Create an app on [developer.twitter.com](https://developer.twitter.com/en/apps) and get the following key and tokens:
 
-- `TWITTER_CONSUMER_API_KEY`
-- `TWITTER_CONSUMER_API_SECRET`
 
 and run in your cloned local repository (to clone the repo: `git clone git@github.com:christian-fei/twitter-oauth-login-in-nodejs.git`):
 
